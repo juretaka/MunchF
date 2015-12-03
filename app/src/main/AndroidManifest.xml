@@ -16,7 +16,8 @@
     <application
         android:name=".AnalyticsApplication"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/new_logo"
+        android:label="Munch"
 
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
