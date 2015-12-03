@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Munch</string>
+    
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- Strings for Facebook Login -->
+    <string name="facebook_app_id">1196589037022597</string>
+
+    <!-- strings from munch -->
+
+    <string name="title_activity_crime">CrimeActivity</string>
+    <string name="title_hint">Enter a title for the munch.</string>
+    <string name="postName_label">Post Name</string>
+    <string name="description_label">Details</string>
+    <string name="fullName_label">Name</string>
+    <string name="Time_label">Start and End Times</string>
+    <string name="location_label">Location</string>
+    <string name="crime_solved_label">Meet up?</string>
+    <string name="crimes_title">Crimes</string>
+    <color name="myColor">#C6E2FF</color>
+
+    <!-- Strings from post create -->
+    <string name="postName">Title for Post</string>
+    <string name="timeStart">Enter desired start time</string>
+    <string name="timeEnd">Enter desired end time</string>
+    <string name="date">Enter desired date</string>
+    <string name="location">Desired location</string>
+    <string name="description">Additional Information (optional)</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_label">name</string>
+    <string name="login_text">Welcome To Munch!</string>
+    <string name="login_text2">Welcome back!</string>
+    <string name="munch_title">Munch title</string>
+    <string name="munch_date">Munch date</string>
+    <string name="createPostButton">Create Post</string>
+    <string name="continueButton">continue</string>
+
+    <string name="startTimeTitle">Starting Time</string>
+    <string name="endTimeTitle">Ending Time</string>
+    <string name="dateTitle">Select Date</string>
+    <string name="munchList">Munch List</string>
+</resources>
