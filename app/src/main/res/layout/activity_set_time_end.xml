@@ -22,7 +22,7 @@
     <Button
         android:layout_width="123dp"
         android:layout_height="wrap_content"
-        android:text="Next"
+        android:text="Finish"
         android:id="@+id/finishPost"
         android:layout_gravity="right"
         android:onClick="finishPost"
